@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_process_flow">
+    <sys_process_flow action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="x_1330000_vst_solicitaoces">situacao=4^EQ<item display_value="Expirado/Cancelado" endquery="false" field="situacao" goto="false" newquery="false" operator="=" or="false" value="4"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <description/>
+        <label>Cancelado/Expirado</label>
+        <name>Cancelado/Expirado</name>
+        <order>40</order>
+        <sys_class_name>sys_process_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-05 14:25:27</sys_created_on>
+        <sys_id>c751fbbe839102107ea09496feaad39b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cancelado/Expirado</sys_name>
+        <sys_package display_value="Visitas" source="x_1330000_vst">5266cfae831502107ea09496feaad329</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Visitas">5266cfae831502107ea09496feaad329</sys_scope>
+        <sys_update_name>sys_process_flow_c751fbbe839102107ea09496feaad39b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-05 14:25:27</sys_updated_on>
+        <table>x_1330000_vst_solicitaoces</table>
+    </sys_process_flow>
+</record_update>
