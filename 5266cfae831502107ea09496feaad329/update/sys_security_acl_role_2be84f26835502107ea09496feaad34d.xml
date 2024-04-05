@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-04 16:48:51</sys_created_on>
+        <sys_id>2be84f26835502107ea09496feaad34d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1330000_vst_solicitaoces.x_1330000_vst.admin</sys_name>
+        <sys_package display_value="Visitas" source="x_1330000_vst">5266cfae831502107ea09496feaad329</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Visitas">5266cfae831502107ea09496feaad329</sys_scope>
+        <sys_security_acl display_value="x_1330000_vst_solicitaoces">27e8cb22835502107ea09496feaad3d8</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_2be84f26835502107ea09496feaad34d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-04 16:48:51</sys_updated_on>
+        <sys_user_role display_value="x_1330000_vst.admin" name="x_1330000_vst.admin">8cd68362835502107ea09496feaad3f8</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

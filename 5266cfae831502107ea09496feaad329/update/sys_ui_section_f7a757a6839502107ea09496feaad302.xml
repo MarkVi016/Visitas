@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Informações Complementares" section_id="f7a757a6839502107ea09496feaad302" sys_domain="global" table="x_1330000_vst_cadastro_visitantes" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cep</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-04 17:57:10</sys_created_on>
+            <sys_id>d89857e6839502107ea09496feaad374</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Informações Complementares" display_value="Informações Complementares" name="x_1330000_vst_cadastro_visitantes" sys_domain="global" view="Default view">f7a757a6839502107ea09496feaad302</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-04 17:57:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-04 17:57:10</sys_created_on>
+            <sys_id>5c9857e6839502107ea09496feaad374</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Informações Complementares" display_value="Informações Complementares" name="x_1330000_vst_cadastro_visitantes" sys_domain="global" view="Default view">f7a757a6839502107ea09496feaad302</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-04 17:57:10</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>endereco</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-04 17:57:10</sys_created_on>
+            <sys_id>dc9857e6839502107ea09496feaad374</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Informações Complementares" display_value="Informações Complementares" name="x_1330000_vst_cadastro_visitantes" sys_domain="global" view="Default view">f7a757a6839502107ea09496feaad302</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-04 17:57:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>numero</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-04 17:57:10</sys_created_on>
+            <sys_id>509857e6839502107ea09496feaad375</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Informações Complementares" display_value="Informações Complementares" name="x_1330000_vst_cadastro_visitantes" sys_domain="global" view="Default view">f7a757a6839502107ea09496feaad302</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-04 17:57:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>complemento</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-04 17:57:10</sys_created_on>
+            <sys_id>d09857e6839502107ea09496feaad375</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Informações Complementares" display_value="Informações Complementares" name="x_1330000_vst_cadastro_visitantes" sys_domain="global" view="Default view">f7a757a6839502107ea09496feaad302</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-04 17:57:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>bairro</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-04 17:57:10</sys_created_on>
+            <sys_id>549857e6839502107ea09496feaad375</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Informações Complementares" display_value="Informações Complementares" name="x_1330000_vst_cadastro_visitantes" sys_domain="global" view="Default view">f7a757a6839502107ea09496feaad302</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-04 17:57:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cidade</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-04 17:57:10</sys_created_on>
+            <sys_id>d49857e6839502107ea09496feaad375</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Informações Complementares" display_value="Informações Complementares" name="x_1330000_vst_cadastro_visitantes" sys_domain="global" view="Default view">f7a757a6839502107ea09496feaad302</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-04 17:57:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Informações Complementares</caption>
+            <header>false</header>
+            <name>x_1330000_vst_cadastro_visitantes</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-04 17:53:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f7a757a6839502107ea09496feaad302</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1330000_vst_cadastro_visitantes</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Visitas" source="x_1330000_vst">5266cfae831502107ea09496feaad329</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Visitas">5266cfae831502107ea09496feaad329</sys_scope>
+            <sys_update_name>sys_ui_section_f7a757a6839502107ea09496feaad302</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-04 17:53:18</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
